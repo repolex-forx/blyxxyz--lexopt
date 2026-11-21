@@ -1,0 +1,11 @@
+{
+  "org": "blyxxyz",
+  "repo": "lexopt",
+  "versions": [
+    {
+      "commit": "f52c6a620b59dcadb01701c039cd4b270e2d5966",
+      "tag": "v0.3.2",
+      "parsed_at": "2026-11-21T23:27:26.736990+00:00"
+    }
+  ]
+}
