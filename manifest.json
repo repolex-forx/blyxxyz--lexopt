@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "blyxxyz",
+  "repo": "lexopt",
+  "versions": [
+    {
+      "commit": "f52c6a620b59dcadb01701c039cd4b270e2d5966",
+      "parsed_at": "2026-11-21T23:16:55.645164+00:00",
+      "tag": "v0.3.2",
+      "filetree": "filetree/f52c6a620b59dcadb01701c039cd4b270e2d5966.nq.gz",
+      "blobs": [
+        "blob/16eed15aeb9e98ab173ef5ca4455af23b6cda9a3.nq.gz",
+        "blob/b398f55af3b5b47ecb79f121b6063e9686d90097.nq.gz",
+        "blob/572e03bdf321b6cc3a99488183436905cefd086d.nq.gz",
+        "blob/a901acf87da47ef2a267a05135fb7e9b09affe69.nq.gz",
+        "blob/aa294790b57f467514c4cb92ec126b69402dfa1c.nq.gz",
+        "blob/4c88279d327851dbb5d134224df8b8b1cca0bf45.nq.gz",
+        "blob/90ca1c081712a53ea553a5b8202f68aed9ab42d4.nq.gz",
+        "blob/e1dd0c0439d30de9c2df332a4b2d9ac78d9e2c2d.nq.gz",
+        "blob/5b81db6ccf097e65829e55fd69f0519146f46ec1.nq.gz",
+        "blob/3d30690f120489337cb61685b2f0f0d45af983c1.nq.gz",
+        "blob/70fbaa9605ca64643a98864ae11ec2fc847bd45a.nq.gz",
+        "blob/b53eda13d7bc0dd11e91019b9824304c4b4ed60b.nq.gz",
+        "blob/2bfe5b2c900e234d7425db253beb859380d70b46.nq.gz",
+        "blob/97b0f128d6712f327f312350a337a0339e80c490.nq.gz",
+        "blob/1be03a16fab03f6f0e0d20e9e1f5b833a1bbd754.nq.gz",
+        "blob/c640ca5379ab68c6904db791c07e8d0c75f4e406.nq.gz",
+        "blob/340ac0336244d43b32a5524d6e2bf3f9f40d4e1d.nq.gz",
+        "blob/3f0b1eb4fa5bc51bc3755b693a36f601f774f740.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
